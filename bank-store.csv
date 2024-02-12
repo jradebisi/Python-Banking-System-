@@ -1,0 +1,7 @@
+First Name,Last Name,Account No.,Account Type,Balance,Address,Is_Admin,Username,Password,Full_Admin_Rights
+Adam,Smith,123456789,Savings,5000,"14, Wilcot Street, Bath, B5 5RT",,,,
+David,White,987654321,Current,3200,"60, Holborn Viaduct, London, EC1A 2FD",,,,
+Alice,Churchill,425934857,Savings,18000,"5, Cardigan Street, Birmingham, B4 7BD",,,,
+Ali,Abdallah,856745757,Current,40,"44, Churchill Way West, Basingstoke, RG21 6YR",,,,
+Julian,Padget,,,,"12, London Road, Birmingham, B95 7TT",1,id1188,1441,1
+Cathy,Newman,,,,"47, Mars Street, Newcastle, NE12 6TZ",1,id3313,2442,0
